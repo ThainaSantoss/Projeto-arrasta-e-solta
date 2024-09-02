@@ -4,7 +4,7 @@ Este projeto implementa uma funcionalidade básica de arrastar e soltar usando H
 
 ## Imagem do Projeto
 
-<img src="/assets/img-projet.png" alt="imagem_readme">
+<img src="/assets/foto-projeto.png" alt="imagem_readme">
 
 ## Recursos
 
