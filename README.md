@@ -2,6 +2,10 @@
 
 Este projeto implementa uma funcionalidade básica de arrastar e soltar usando HTML, CSS e JavaScript. Os usuários podem arrastar itens para áreas específicas, mas os itens retornarão automaticamente para uma área neutra quando soltos.
 
+## Imagem do Projeto
+
+<img src="/assets/img-projet.png" alt="imagem_readme">
+
 ## Recursos
 
  - Arrastar e soltar: os usuários podem arrastar itens da área neutra sobre zonas de soltar predefinidas.
@@ -39,7 +43,7 @@ Abra o projeto: Navegue até o diretório do projeto e abra o arquivo index.html
 
 ## **Licença**
 
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contribuindo
 
