@@ -37,7 +37,7 @@ Clone o repositório:
 bash
 
 Copiar código
-git clone https://github.com/yourusername/drag-and-drop-project.git
+git clone https://github.com/ThainaSantoss/Projeto-arrasta-e-solta.git
 
 Abra o projeto: Navegue até o diretório do projeto e abra o arquivo index.html no seu navegador.
 
